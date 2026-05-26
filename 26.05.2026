@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyM0sebkW0TSk9qayeBNb5Sk",
+      "authorship_tag": "ABX9TyOHv7jv1QS6mmH0YSZYNokk",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,12 +28,42 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
-        "id": "zs9G4yMdcJhM"
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 141
+        },
+        "id": "zs9G4yMdcJhM",
+        "outputId": "5300ca88-1709-4361-a527-a45858bd5a47"
       },
-      "outputs": [],
-      "source": []
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "NameError",
+          "evalue": "name 'f' is not defined",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+            "\u001b[0;32m/tmp/ipykernel_7626/676452219.py\u001b[0m in \u001b[0;36m<cell line: 0>\u001b[0;34m()\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mf\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m: name 'f' is not defined"
+          ]
+        }
+      ],
+      "source": [
+        "f\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "gfgf"
+      ],
+      "metadata": {
+        "id": "fmi2BZmncyBI"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
